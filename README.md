@@ -3,7 +3,7 @@ Gp3Coursework
 
 Submission for Gp3 Coursework
 
-Controls are show in the start up screen, can use either keyboard or mouse.
+Controls are show in the start up screen, can use either keyboard or xbox controller.
 
 To work: You may need to change the content directory and possible the debug directory to wherever they are located.
 
